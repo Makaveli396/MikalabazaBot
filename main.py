@@ -288,7 +288,7 @@ Simplemente escribe el nombre de cualquier película o serie y te daré toda la 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Comando de ayuda"""
     help_text = """
-🆘 **AYUDA - CINEGRAM INFO BOT**
+🆘 **AYUDA - Mikalabaza_ayuda_bot**
 
 🎯 **Cómo usar el bot:**
 1. Simplemente escribe el nombre de una película o serie
@@ -309,7 +309,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 🤖 **En grupos:**
 • Respondo automáticamente a títulos de películas/series
-• También puedes mencionarme: @cinegraminfobot título
+• También puedes mencionarme: @Mikalabaza_ayuda_bot título
 
 ❓ **¿Problemas?** Asegúrate de escribir el título lo más completo posible.
     """
@@ -319,7 +319,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def about_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Información sobre el bot"""
     about_text = """
-ℹ️ **SOBRE CINEGRAM INFO BOT**
+ℹ️ **SOBRE Mikalabaza_ayuda_bot**
 
 🎬 **Versión:** 1.0
 👨‍💻 **Desarrollado con:** Python + Telegram Bot API
