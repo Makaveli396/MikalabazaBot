@@ -258,9 +258,7 @@ movie_bot = MovieBot()
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Comando de inicio con mensaje creativo"""
     welcome_message = """
-🎬✨ ¡Bienvenida Mika, Makaveli te Saluda hizo este bot para ti para que no lo extrañes jaja(prueba1) **@Mikalabaza_ayuda_bot**! ✨🎭
-
-(⚙ MANTENIMIENTO puedes beber mate mientras lo arrelgamos jaja)
+🎬✨ ¡Bienvenida Mika, Makaveli te Saluda hizo este bot para ti (prueba1) **@Mikalabaza_ayuda_bot**! ✨🎭
 
 🎯 **¿Qué puedo hacer por ti?** (aparte de todo bb)
 Simplemente escribe el nombre de cualquier película o serie y te daré toda la información que necesitas:
