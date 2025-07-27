@@ -294,7 +294,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 1. Simplemente escribe el nombre de una película o serie
 2. No necesitas comandos especiales
 3. Puedo entender títulos con errores tipográficos
-4. Funciono tanto en chats privados como en grupos
+4. Funciono tanto en chats privados como en grupos.
 
 📋 **Comandos disponibles:**
 • `/start` - Mensaje de bienvenida
